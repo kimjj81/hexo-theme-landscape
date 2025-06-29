@@ -75,7 +75,7 @@ fb_app_id:
 # Comment system
 # ===============
 # Disqus comment system.
-disqus_shortname:
+disqus_shortname: kimjj81-github-io
 # valine comment system. https://valine.js.org
 valine:
   enable: false # if you want use valine,please set this value is true
